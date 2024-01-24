@@ -16,5 +16,5 @@ A character string, capitalized to title case.
 Greet a person and appropriately capitalize their name.
 }
 \examples{
-hello("james bond")
+ isolate()
 }
