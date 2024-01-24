@@ -13,8 +13,6 @@ Depends:
     R (>= 3.6)
 Imports:
     shiny,
-VignetteBuilder:
-    knitr
 biocViews:
 Encoding: UTF-8
 Language: en-US
